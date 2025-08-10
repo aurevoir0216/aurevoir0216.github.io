@@ -1,0 +1,1 @@
+import{t as e}from"./QAEvent.QcWE5tGS.js";import"./index.DaYL4gH5.js";import"./meta.Bzz77H1K.js";import"./state.BvkHhIan.js";document.querySelector(".research-paper-window [data-window-close]")?.addEventListener("click",()=>{e()});
